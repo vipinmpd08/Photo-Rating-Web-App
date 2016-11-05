@@ -12,3 +12,4 @@ Please see the Demo and Presentation for more details.
 
 <img src="https://github.com/vipinmpd08/Photo-Rating-Web-App/blob/master/Demo.png?raw=true"/>
 
+<i>Note: Used UberGallery API for displaying images.</i>
