@@ -1,4 +1,4 @@
-# rating-app
+# Photo Rating Live Web Application
 
 This is a simple Photo Rating App. This can be used in any public meetings to use and view live rating. You may connect this App into an interactive TV and let the users tap on it. 
 
